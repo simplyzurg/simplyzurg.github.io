@@ -1,0 +1,9 @@
+Package: com.zurg.classicicons
+Name: ClassicIcons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons!
+Author: Zurg
+Maintainer: Zurg
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard

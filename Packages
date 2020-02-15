@@ -1,0 +1,14 @@
+Package: com.simplyzurg.classicicons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: SimplyZurg <simplyzurg@gmail.com>
+Depends: snowboard, anemone
+Filename: /ClassicIconsForCydia.deb
+Size: 86308
+MD5sum: 9d5e66cee559650c156849b3fa0cd084
+SHA1: 3f1960d9c9d4ac99a0fb5a0cc201c3969d4ca5c0
+SHA256: 90a73dc706a4cddadcc2d0a9416620e6860cbf67e668dd0f482c6d65dad46634
+Section: Themes
+Description: A cool theme
+Author: Simplyzurg <simplyzurg@gmail.com>
+Name: ClassicIcons
