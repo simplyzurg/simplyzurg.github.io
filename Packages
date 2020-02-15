@@ -2,7 +2,7 @@ Package: com.simplyzurg.classicicons
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: SimplyZurg <simplyzurg@gmail.com>
-Depends: snowboard, anemone
+Depends: com.spark.snowboard
 Filename: /ClassicIconsForCydia.deb
 Size: 86308
 MD5sum: 9d5e66cee559650c156849b3fa0cd084
